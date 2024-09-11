@@ -1,5 +1,13 @@
 ## Hi! 👋 I'm Ferdinan
 
+I am a data enthusiast who loves to process and study data. I love JavaScript and python and use them as my main languages for projects related to data processing.
+
+
+- 🔭 I am currently studying at Mikroskil University.
+- 🌱 I am currently enrolled in Bangkit Academy Machine learning path.
+- 💬 Feel free to ask me about data processing 
+- 📫 How to contact me: ferdinantag8@gmail.com
+
 <p align="left">
 <a href="https://github.com/penuliscode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
