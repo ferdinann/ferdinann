@@ -13,8 +13,9 @@ I am a data enthusiast who loves to process and study data. I love JavaScript an
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
 <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<a href=""><img align="left" alt="Python" title="Python" width="21px" src="https://tse4.mm.bing.net/th?id=OIP.dJToM1TiZiJA0GYwzDHwjQHaHY&pid=Api&P=0&h=180](https://tse1.mm.bing.net/th?id=OIP.u8ciaxIQHQ1jY9drdS5aFAHaHa&pid=Api&P=0&h=180)" /></a>
-
+<a href=""><img align="left" alt="Python" title="Python" width="21px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" /></a>
+<a href=""><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" /></a>
+<a href=""><img align="left" alt="Tensorflow" title="Tensorflow" width="21px" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" /></a>
 <br>
 <br>
 
