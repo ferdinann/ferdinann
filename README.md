@@ -15,9 +15,8 @@ I am a data enthusiast who loves to process and study data. I love JavaScript an
 <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
 <a href=""><img align="left" alt="Python" title="Python" width="21px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" /></a>
 <a href=""><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" /></a>
-<a href=""><img align="left" alt="Tensorflow" title="Tensorflow" width="21px" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" /></a>
-<br>
-<br>
+<br></br>
+<br></br>
 
 <p align="left">
 <a href="https://github.com/ferdinann">
