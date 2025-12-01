@@ -10,11 +10,35 @@ I am a data enthusiast who loves to process and study data. I love JavaScript an
 
 
 ### Tech Stack
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-<a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-<a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<a href=""><img align="left" alt="Python" title="Python" width="21px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" /></a>
-<a href=""><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://reactjs.org/" title="React">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.python.org" title="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/" title="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.tensorflow.org" title="TensorFlow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://spark.apache.org/" title="Apache Spark / PySpark">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org/" title="Scikit-learn">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://lookerstudio.google.com/" title="Looker Studio">
+  <img src="https://miro.medium.com/v2/resize:fit:1042/1*NWsYEmwul9ALPt1kpwuLew.png" alt="Looker Studio" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
+<a href="https://streamlit.io" title="Streamlit">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+</a>
 <br></br>
 <br></br>
 
