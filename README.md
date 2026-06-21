@@ -2,8 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ferdinan&label=Profile%20views&color=0e75b6&style=flat" alt="Ferdinan" /> </p>
 
-I am a data enthusiast who loves to process and study data. I love JavaScript and python and use them as my main languages for projects related to data processing.
+Informatics engineering student who has a strong interest in Data and AI. Have experience in the field of machine learning at PT Dicoding Academi Indonesia in the Bangkit Academy study independent bersertifikat program which is part of the kampus merdeka program. 
 
+The projects I have worked on include StudyPath, an application integrated with machine learning, Retail transaction Dashboard, Sentiment Analysis Meta AI, Sales data analysis, MySQL database projects, etc.
+
+My career goal is to become a Data and AI professional, creating innovative technology-based solutions to support strategic decision-making and make a positive impact on the company.
 
 - 🔭 I am currently studying at Mikroskil University.
 - 🌱 I am currently enrolled in Bangkit Academy Machine learning path.
